@@ -44,8 +44,8 @@
 /web/INSTALL.txt
 /web/LICENSE.txt
 /web/README.txt
-# /web/robots.txt
-# /web/update.php
+/web/robots.txt
+/web/update.php
 /web/web.config
 /web/modules/contrib
 
